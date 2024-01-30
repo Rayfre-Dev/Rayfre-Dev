@@ -4,7 +4,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Technical Program Manager
 -------------------------
 
-A few of my highlights, United States Naval Academy - Systems Engineering (German Minor) Captain, United States Marine Corps - Various locations including deployment to Iraq (Operation Inherent Resolve) Expeditionary Warfare School - Battalion Operations Planning (Amphibious landings) Chapel Hill Kenan-Flagler MBA 1 year Program Manager - Responsible for the design, deployment, and management of manufacturing explosive devices Code Platoon student - JavaScript, Python, Java, C#, AWS, HTML, CSS, jQuery, Bootstrap, Node.js, MySQL, MongoDB, Express.js, React.js After leaving the Marine Corps early last year, I quickly found out that the average corporate office/ factory life was not for me. Currently working to shift into tech, find rewarding remote opportunities, have more freedom, and pursue my passion of semi-professional spearfishing and freediving.
+A few of my highlights, 
+
+United States Naval Academy - Systems Engineering (German Minor) 
+
+Captain, United States Marine Corps (Program Manager) - Various locations including deployment to Iraq (Operation Inherent Resolve) 
+
+Chapel Hill Kenan-Flagler MBA 
+
+Production Program Manager (Aerospace and Defense industry) - Responsible for the design, deployment, and management of manufacturing explosive devices 
+
+Code Platoon student - JavaScript, Python, Java, C#, AWS, HTML, CSS, jQuery, Bootstrap, Node.js, MySQL, MongoDB, Express.js, React.js 
+
+After leaving the Marine Corps early 2023, I quickly found out that the average corporate office/ factory life was not for me. Currently working to shift into tech, find rewarding remote opportunities, have more freedom, and pursue my passion of semi-professional spearfishing and freediving.
 
 *   🌍  I'm based in Global Tech Hubs### Skills 
 <p align="left">
