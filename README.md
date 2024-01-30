@@ -32,6 +32,4 @@ After leaving the Marine Corps early 2023, I quickly found out that the average 
 
 <a href="http://www.github.com/Rayfre-Dev"><img src="https://github-readme-stats.vercel.app/api?username=Rayfre-Dev&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rayfre-Dev's GitHub stats" /></a>
 
-<a href="http://www.github.com/Rayfre-Dev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rayfre-Dev&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/Rayfre-Dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayfre-Dev&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>                 
