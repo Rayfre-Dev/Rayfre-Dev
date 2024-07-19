@@ -16,7 +16,7 @@ Production Program Manager (Aerospace and Defense industry) - Responsible for th
 
 Code Platoon student - JavaScript, Python, Java, C#, AWS, HTML, CSS, jQuery, Bootstrap, Node.js, MySQL, MongoDB, Express.js, React.js 
 
-After leaving the Marine Corps early 2023, I quickly found out that the average corporate office/ factory life was not for me. Currently working to shift into tech, find rewarding remote opportunities, have more freedom, and pursue my passion of semi-professional spearfishing, freediving, and underwater photography.
+Currently working as a financial management consultant 
 
 *   🌍  I'm based in Global Tech Hubs### Skills 
 <p align="left">
